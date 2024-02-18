@@ -1,4 +1,4 @@
-# Khushbooo123.github.io
+# MY PROJECT/WORK PORTFOLIO
 
 Welcome to my GitHub repository showcasing a comprehensive overview of my professional journey and technical expertise. This portfolio is divided into three main menus, providing you with a glimpse into my diverse skill set and accomplishments.
 
