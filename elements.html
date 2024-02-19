@@ -46,8 +46,9 @@
 .carousel img {
   width: 30%;
   height: 30%;
-  animation: carousel 10s infinite;
-  border-radius: 50%;
+  transition: transform 0.5s ease-in-out;
+ min-width: 100%;
+ box-sizing: border-box;
 }
 
 @keyframes carousel {
